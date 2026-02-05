@@ -47,3 +47,7 @@ Each news article is displayed with a title, short description, and a “Read Mo
 The project is deployed using GitHub Pages, making it accessible online through a live link. A README file is included to explain the project details, features, and steps to run the application.
 
 In conclusion, this project successfully demonstrates the use of public APIs, dynamic data loading, and responsive web design. It fulfills all the internship requirements and helps in understanding real-world frontend web development concepts.
+
+<img width="1910" height="886" alt="Image" src="https://github.com/user-attachments/assets/50c0bc8d-0583-4188-b6c4-0f582325c3b3" />
+
+<img width="1893" height="867" alt="Image" src="https://github.com/user-attachments/assets/93357896-ff5d-43aa-9aef-c376c1d2ae49" />
